@@ -1,5 +1,5 @@
 # EdmontonPropertyAssessmentManager
-Jakarta EE 9
+Jakarta EE 9 - Text File Processing
 
 This project demonstrates my ability to:
 
